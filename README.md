@@ -1,7 +1,7 @@
-# Algoritimo de PID
+# Algoritmo de PID
 
 ## O que é?
-* Este é uma Algoritimo básico de PID genérico desenvolvido por Rafael Farias Meneses para utilização geral.
+* Este é uma Algoritmo básico de PID genérico desenvolvido por Rafael Farias Meneses para utilização geral.
 * Escrito em C++ deve ser criado um objeto da classe ``Pid``.
 
 ## Utilização
